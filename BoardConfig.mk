@@ -11,11 +11,8 @@ TARGET_KERNEL_CONFIG := cyanogenmod_p930_defconfig
 # Keep this as a fallback
 TARGET_PREBUILT_KERNEL := device/lge/p930/kernel
 
-<<<<<<< Updated upstream
-=======
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/p930/bluetooth
 
->>>>>>> Stashed changes
 # TWRP flags
 DEVICE_RESOLUTION := 720x1280
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
